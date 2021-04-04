@@ -5,7 +5,7 @@ package com.sun.training.ut.exercise_ten.domain.business
  * Accept for Gift
  * Accept for Discount percent
  */
-internal object PaymentAmountPointBusiness {
+object PaymentAmountPointBusiness {
 
     // Payment great than or equals 10K can receive the gift and discount percent
     const val PAYMENT_10K = 10000.0

@@ -5,7 +5,7 @@ package com.sun.training.ut.exercise_ten.domain.business
  * Depends MemberClassType
  * When need change. Just change business only
  */
-internal object DiscountBusiness {
+object DiscountBusiness {
 
     const val UNKNOWN_CLASS_DISCOUNT_PERCENT = 0.0
 
